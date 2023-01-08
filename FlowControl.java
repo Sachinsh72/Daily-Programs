@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class FlowControl {
+public class FlowControl {
 }

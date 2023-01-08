@@ -5,5 +5,7 @@ public class Concatenate {
         System.out.println(30+40+"The Concatenate is right front");
         System.out.println("The Concatenate is right front" +(30 +40));
         System.out.println(30+40+"The Concatenate is right front" +30+40);
+        System.out.println("To check the git changes");
+        System.out.println("changes in this file");
     }
 }
